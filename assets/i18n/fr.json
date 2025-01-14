@@ -1,0 +1,318 @@
+{
+  "login": {
+    "title": "Accédez à des patrons de tricot faits pour vous.",
+    "content": "Créez un compte ou connectez-vous pour découvrir un univers de créations sur mesure et commencer à tricoter avec des patrons parfaitement ajustés à vos besoins.",
+    "connexion": "Connexion",
+    "subscribe": "Inscription",
+    "forgotPassword": "Mot de passe oublié ?",
+    "email": "Adresse email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "username": "Prénom",
+    "name": "Nom"
+  },
+  "home": {
+    "title": "Bienvenue sur Thalisy, l’atelier numérique de vos créations de tricot !",
+    "content": "Avec Thalisy, créez des patrons sur mesure en quelques clics, adaptés à vos goûts, votre style et vos besoins. Simplifiez vos projets de tricot grâce à des suggestions personnalisées et une interface intuitive. Plus besoin de chercher des patrons compliqués, laissez votre créativité prendre les rênes !",
+    "generatorButton": "Générer un nouveau modèle",
+    "sharedPatternsButton": "Découvrir plus de patrons"
+  },
+  "forgetPassword": {
+    "title": "Réinitialisez votre mot de passe",
+    "content": "Veuillez entrer votre adresse e-mail ci-dessous. Nous vous enverrons un lien pour réinitialiser votre mot de passe.",
+    "sent.message": "Un mail va très prochainement vous être envoyé",
+    "sent": "Envoyer",
+    "sent.already": "Renvoyer"
+  },
+  "resetPassword": {
+    "title": "Créer votre nouveau mot de passe",
+    "content": "Veuillez entrer votre nouveau mot de passe",
+    "password": "Entrer votre nouveau mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "submit": "Valider"
+  },
+  "success": {
+    "subscribe": "Création de votre comptre réussie",
+    "change.password": "Votre mot de passe a été changé avec succès",
+    "update.username": "Votre prénom a été modifié.",
+    "create.pattern": "Votre patron a été créé avec succès",
+    "update.image": "Votre image a été modifiée avec succès"
+  },
+  "error": {
+    "login.404": "Cet e-mail ne correspond à aucun compte.",
+    "login.401": "Le mot de passe est incorrect.",
+    "default": "Une erreur est survenue. Veuillez réessayer plus tard.",
+    "subscribe.409": "Cet e-mail est déjà utilisé.",
+    "password": "Les mots de passe ne correspondent pas",
+    "login.empty": "Veuillez remplir tous les champs.",
+    "empty": "Veuillez remplir tous les champs.",
+    "email.format": "L'email n'est pas au bon format.",
+    "sent.email": "Erreur lors de l'envoie de l'email",
+    "token.invalid": "Votre session a expiré. Veuillez recommencer la procédure.",
+    "change.password": "Erreur lors du changement de mot de passe",
+    "numberStitches.format": "Le nombre de mailles doit être compris entre 4 et 100",
+    "numberRows.format": "Le nombre de rangs doit être compris entre 4 et 100",
+    "width.format": "La largeur doit être comprise entre 2cm et 40cm",
+    "height.format": "La hauteur doit être comprise entre 2cm et 40cm",
+    "needles.format": "La taille des aiguilles doit être comprise entre 0 et 25",
+    "update.username": "Erreur lors de la modification du prénom",
+    "download": "Erreur lors du téléchargement du patron.",
+    "required": "Ce champ est requis",
+    "createPattern": "Erreur lors de la création d'un patron",
+    "add.comment.rating": "Entrer une note",
+    "subscribe.400": "Un des champs est incorrect",
+    "password.format": "Le mot de passe de ne peut pas être vide",
+    "file": {
+      "image": "Seuls les fichiers JPG, PNG, SVG ou GIF sont acceptés",
+      "pdf": "Seuls les fichiers PDF sont acceptés"
+    },
+    "maxLength": "La longueur maximale est de 255 caractères"
+  },
+  "profile": {
+    "tabs": {
+      "information": "Information",
+      "security": "Sécurité"
+    },
+    "information": {
+      "title": "Informations personnelles",
+      "username": "Prénom",
+      "email": "Email",
+      "update": "Appliquer",
+      "language": "Langue"
+    },
+    "security": {
+      "title": "Modifier votre mot de passe",
+      "currentPassword": "Mot de passe actuel",
+      "newPassword": "Nouveau mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "update": "Modifier"
+    },
+    "resetPassword": {
+      "title": "Créer votre nouveau mot de passe",
+      "content": "Veuillez entrer votre nouveau mot de passe",
+      "password": "Entrer votre nouveau mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "submit": "Valider"
+    },
+    "profile": {
+      "tabs": {
+        "information": "Information",
+        "security": "Sécurité"
+      },
+      "information": {
+        "title": "Informations personnelles",
+        "username": "Prénom",
+        "email": "Email",
+        "update": "Appliquer",
+        "language": "Langue"
+      },
+      "security": {
+        "title": "Modifier votre mot de passe",
+        "currentPassword": "Mot de passe actuel",
+        "newPassword": "Nouveau mot de passe",
+        "confirmPassword": "Confirmer le mot de passe",
+        "update": "Modifier"
+      }
+    },
+    "pagination": {
+      "firstPageLabel": "Première page",
+      "lastPageLabel": "Dernière page",
+      "nextPageLabel": "Page suivante",
+      "previousPageLabel": "Page précédente"
+    }
+  },
+  "navbar": {
+    "disconnect": "Déconnexion",
+    "home": "Accueil",
+    "generator": "Générateur de patrons",
+    "shared": "Rechercher un patron",
+    "add.pattern": "Ajouter un patron",
+    "settings": "Paramètres",
+    "myPattern": "Mes patrons"
+  },
+  "generator": {
+    "undefined": "Non renseigné",
+    "recap": "Récapitulatif",
+    "clothingType": {
+      "name": "Type de vêtement",
+      "title": "Choisissez le type de vêtement",
+      "submit": "Valider",
+      "sweater": "Pull",
+      "beanie": "Bonnet"
+    },
+    "yarn": {
+      "title": "Dernière étape, tircotez votre échantillon et mesurez le !",
+      "stitchNumberInputLabel": "Nombre de mailles",
+      "rowNumberInputLabel": "Nombre de rangs",
+      "stitches" : "mailles",
+      "rows" : "rangs",
+      "stitchSizeInputLabel": "Largeur",
+      "rowSizeInputLabel": "Hauteur",
+      "needlesInputLabel": "Taille des aiguilles",
+      "submit": "Générer",
+      "name": "Échantillon"
+    },
+    "size": {
+      "body.name": "Taille du corps",
+      "sleeve.name": "Taille des manches",
+      "width.name": "Largeur",
+      "name": "Taille",
+      "width": "Largeur",
+      "body": "Corps",
+      "sleeve": "Manche",
+      "body.information": "La longueur du corps du vêtement souhaité de bout à bout",
+      "width.information": "La largeur du corps du vêtement souhaité de bout à bout",
+      "height.information": "La hauteur du corps du vêtement souhaité de haut en bas",
+      "sleeve.information": "La longueur de la manche souhaitée de l'épaule au poignet",
+      "empty.information": "Cliquez sur un menu déroulant pour obtenir plus d’informations"
+    },
+    "collar": {
+      "name": "col",
+      "round": "Col rond",
+      "v": "Col en V",
+      "turtle": "Col roulé",
+      "round.information": "Un col rond est une encolure circulaire qui repose près de la base du cou, souvent utilisée dans les t-shirts et les pulls.",
+      "v.information": "Un col en V est une encolure en forme de lettre \"V\" qui descend vers la poitrine depuis les épaules.",
+      "turtle.information": "Un col roulé est une encolure haute qui couvre la totalité ou une grande partie du cou, souvent repliée pour un style classique.",
+      "empty.information": "Cliquez sur une option pour obtenir plus d’informations"
+    },
+    "sleeve": {
+      "name": "manches",
+      "straight": "Manches droite",
+      "puffy": "Manches bouffantes",
+      "flared": "Manches évasées",
+      "straight.information": "Les manches droites offrent une coupe simple et classique, ajustée tout au long du bras.",
+      "puffy.information": "Les manches bouffantes se distinguent par leur volume ample, souvent resserrées au niveau du poignet pour un effet romantique et dramatique.",
+      "flared.information": "Les manches évasées s’élargissent progressivement vers le bas, apportant une touche de fluidité et d’élégance.",
+      "empty.information": "Cliquez sur une option pour obtenir plus d’informations"
+    },
+    "contact": {
+      "title": "Demandez nous !",
+      "content": "Si vous avez des questions sur certains paramétres ou certaines techniques",
+      "call-to-action": "Nous contacter" 
+    },
+    "beanieBorder": {
+      "name": "Bordure",
+      "simple": "Simple",
+      "double": "Double",
+      "none": "Aucune",
+      "simple.information": "La bordure simple est un bord replié une seule fois, offrant une finition élégante et discrète.",
+      "double.information": "La bordure double consiste en un bord replié deux fois, apportant une finition plus épaisse et structurée.",
+      "none.information": "L’absence de bordure signifie que le bord n’est pas plié du tout, donnant un look naturel et décontracté.",
+      "empty.information": "Cliquez sur une option pour obtenir plus d’informations"
+    },
+    "beanieSize": {
+      "name": "Taille",
+      "length": "Longueur",
+      "width": "Largeur",
+      "length.information": "La longueur du bonnet souhaitée de bout à bout",
+      "width.information": "La largeur du bonnet souhaitée de bout à bout",
+      "empty.information": "Cliquez sur un menu déroulant pour obtenir plus d’informations"
+    }
+  },
+  "download": {
+    "title": "Félicitations ! Votre patron unique est maintenant prêt.",
+    "content": "Votre modèle personnalisé est prêt à l’emploi. Donnez un nom à votre patron et préparez-vous à donner vie à votre création en tricotant exactement ce que vous avez imaginé !",
+    "inputPatternNamePlaceholder": "Nom du patron",
+    "button": "Télécharger",
+    "patternName": "Patron",
+    "noPatternNameMessage": "Si vous ne souhaitez pas donner de nom personnalisé à votre patron, il sera nommé \"Patron\" par défaut",
+    "generateError": "Une erreur est survenue lors de la génération du patron, veuillez réessayer"
+  },
+  "shared": {
+    "search": "Rechercher un patron",
+    "cards": {
+      "empty": {
+        "title": "Aucun patron trouvé",
+        "content": "Il semblerait qu’il n’y ait aucun patron correspondant à votre recherche. Réessayez avec d’autres critères ou créez votre propre patron !",
+        "button": "Rééssayer"
+      }
+    },
+    "difficulty": "Difficulté",
+    "patternType": "Type de patron",
+    "none": "Aucun",
+    "download": {
+      "title": "Félicitations ! Votre patron unique est maintenant prêt.",
+      "content": "Votre modèle personnalisé est prêt à l’emploi. Préparez-vous à donner vie à votre création en tricotant exactement ce que vous avez imaginé !",
+      "button": "Télécharger"
+    },
+    "create": {
+      "title": "Partager un patron",
+      "name": "Nom du patron",
+      "description": "Description du patron",
+      "button": "Partager",
+      "pdf": "PDF du patron",
+      "image": "Image du patron"
+    }
+  },
+  "pagination": {
+    "firstPageLabel": "Première page",
+    "lastPageLabel": "Dernière page",
+    "nextPageLabel": "Page suivante",
+    "previousPageLabel": "Page précédente"
+  },
+  "TypePattern": {
+    "SWEATER": "Pull",
+    "BEANIE": "Bonnet",
+    "SCARF": "Echarpe",
+    "GLOVES": "Gants",
+    "ACCESSORY": "Accessoire",
+    "SOCKS": "Chaussettes"
+  },
+  "Difficulty": {
+    "BEGINNER": "Débutant",
+    "INTERMEDIATE": "Intermédiaire",
+    "ADVANCED": "Avancé"
+  },
+  "size": {
+    "SHORT": "Court (55 cm)",
+    "STANDARD": "Standard (60cm)",
+    "LONG": "Long (65cm)",
+    "SMALL": "petit",
+    "LARGE": "grand",
+    "MEDIUM": "moyen"
+  },
+  "beanieSize": {
+    "SHORT": "Court",
+    "STANDARD": "Standard",
+    "LONG": "Long"
+  },
+  "comment": {
+    "add": "Ajouter un commentaire",
+    "noComment": "Aucun commentaire pour le moment",
+    "button": "Ajouter",
+    "input": "commentaire"
+  },
+  "detail": {
+    "type": "Type de vêtement",
+    "difficulty": "Niveau de difficulté"
+  },
+  "footer": {
+    "pattern": "Les patrons",
+    "generator": "Générateur de patrons",
+    "shared": "Partage de patrons",
+    "search": "Rechercher un patron",
+    "personal": "Espace personnel",
+    "profile": "Gérer mon profil",
+    "support": "support",
+    "contact": "Contact",
+    "follow": "Suivez-nous",
+    "instagram": "Instagram",
+    "myPattern": "Mes patrons"
+  },
+  "contact": {
+    "sent": "Votre message a bien été envoyé",
+    "object": {
+      "generator": "Générateur de patrons",
+      "sharing": "Partage de patrons"
+    },
+    "title": "Contactez-nous",
+    "content": "Completez le formulaire, et envoyez nous un message, afin de permettre à l'équipe de Thalisy de vous aider."
+  },
+  "myPattern": {
+    "total": "Patrons",
+    "rating": "en moyenne",
+    "my.empty": "Vous n'avez pas encore publié de patron",
+    "empty": "Aucun patron n'a été publié pour le moment"
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "login": {
+    "title": "Access knitting patterns made just for you.",
+    "content": "Create an account or log in to discover a world of custom creations and start knitting with patterns perfectly tailored to your needs.",
+    "connexion": "Log In",
+    "subscribe": "Sign Up",
+    "forgotPassword": "Forgot your password?",
+    "email": "Email address",
+    "password": "Password",
+    "confirmPassword": "Confirm the password",
+    "name": "Name",
+    "username": "First name"
+  },
+  "home": {
+    "title": "Welcome to Thalisy, the digital workshop for your knitting creations!",
+    "content": "With Thalisy, create custom knitting patterns in just a few clicks, tailored to your tastes, style, and needs. Simplify your knitting projects with personalized suggestions and an intuitive interface. No need to search for complicated patterns anymore—let your creativity take the lead!",
+    "generatorButton": "Create a new pattern",
+    "sharedPatternsButton": "Discover more patterns"
+  },
+  "forgetPassword": {
+    "title": "Reset your password",
+    "content": "Please enter your email address below. We will send you a link to reset your password.",
+    "sent.message": "An email will be sent very soon",
+    "sent": "Send",
+    "sent.already": "Send back"
+  },
+  "resetPassword": {
+    "title": "Create your new password",
+    "content": "Please enter your new password.",
+    "password": "Enter your new password",
+    "confirmPassword": "Confirm password",
+    "submit": "Submit"
+  },
+  "error": {
+    "login.404": "This email does not match any account.",
+    "login.401": "The password is incorrect.",
+    "default": "An error occurred. Please try again later.",
+    "subscribe.409": "This email is already in use.",
+    "password": "The passwords do not match.",
+    "subscribe.success": "Your account has been successfully created.",
+    "empty": "Please fill in all fields.",
+    "email.format": "The email format is incorrect.",
+    "token.invalid": "Your session has expired.",
+    "change.password": "An error occurred while changing the password.",
+    "numberStitches.format": "The number of stitches should be between 4 and 100",
+    "numberRows.format": "The number of rows should be between 4 and 100",
+    "width.format": "The widthshould be between 2cm and 40cm",
+    "height.format": "The height should be between 2cm and 40cm",
+    "needles.format": "The needles size should be between 0 and 25",
+    "update.username": "An error occurred while updating the username.",
+    "download": "An error occurred while downloading the pattern.",
+    "required": "This field is required",
+    "createPattern": "An error occured while creating the pattern",
+    "add.comment.rating": "Entrer a rating",
+    "subscribe.400": "One of the fields is incorrect",
+    "password.format": "The password cannot be empty",
+    "file": {
+      "image": "Only JPG, PNG, SVG or GIF files are allowed",
+      "pdf": "Only PDF files are allowed"
+    },
+    "maxLength": "The maximum length is 255 characters"
+  },
+  "success": {
+    "update.username": "Your username has been updated.",
+    "subscribe": "Your account has been successfully created.",
+    "change.password": "Your password has been successfully changed",
+    "create.pattern": "Your pattern has been successfully created",
+    "update.image": "Your image has been successfully updated"
+  },
+  "profile": {
+    "tabs": {
+      "information": "Information",
+      "security": "Security"
+    },
+    "information": {
+      "title": "Personal Information",
+      "username": "First Name",
+      "email": "Email",
+      "update": "Apply",
+      "language": "Language"
+    },
+    "security": {
+      "title": "Change your password",
+      "currentPassword": "Current password",
+      "newPassword": "New password",
+      "confirmPassword": "Confirm password",
+      "update": "Update"
+    }
+  },
+  "generator": {
+    "undefined": "Unspecified",
+    "recap": "Recap",
+    "clothingType": {
+      "name": "Clothing type",
+      "title": "Choose the clothing type",
+      "submit": "Submit",
+      "sweater": "Sweater",
+      "beanie": "Beanie",
+      "size": "Size",
+      "sample": "yarn"
+    },
+    "yarn": {
+      "title": "Last step, knit your sample and mesure it !",
+      "stitchNumberInputLabel": "Number of stitches",
+      "rowNumberInputLabel": "Number of rows",
+      "stitches" : "stitches",
+      "rows" : "rows",
+      "stitchSizeInputLabel": "Width",
+      "rowSizeInputLabel": "Height",
+      "needlesInputLabel": "Needles size",
+      "submit": "Generate",
+      "name": "Sample"
+    },
+    "size": {
+      "body.name": "Size of the body",
+      "sleeve.name": "Size of the sleeves",
+      "width.name": "Width",
+      "name": "size",
+      "width": "Width",
+      "body": "Body",
+      "sleeve": "Sleeve",
+      "body.information": "The desired garment body length from end to end",
+      "width.information": "The desired garment body width from end to end",
+      "height.information": "The desired garment body height from top to bottom",
+      "sleeve.information": "The desired sleeve length from shoulder to wrist",
+      "empty.information": "Click on a dropdown menu to get more information"
+    },
+    "collar": {
+      "name": "collar",
+      "round": "Round neck",
+      "v": "V-neck",
+      "turtle": "Turleneck",
+      "round.information": "A round neck is a circular neckline that sits close to the base of the neck, commonly seen in t-shirts and sweaters.",
+      "v.information": "A V-neck is a neckline shaped like the letter \"V\" plunging downwards from the shoulders to the chest.",
+      "turtle.information": "A turtleneck is a high neckline that covers most or all of the neck, often folded down for a classic look.",
+      "empty.information": "Click on an option to get more information"
+    },
+    "sleeve": {
+      "name": "sleeves",
+      "straight": "Straight sleeves",
+      "puffy": "Puff sleeves",
+      "flared": "Flared sleeves",
+      "straight.information": "Straight sleeves offer a simple and classic fit, snug along the entire",
+      "puffy.information": "Puff sleeves are characterized by their ample volume, often gathered at the wrist for a romantic and dramatic effect.",
+      "flared.information": "Flared sleeves gradually widen towards the bottom, adding a touch of flow and elegance.",
+      "empty.information": "Click on an option to get more information"
+    },
+    "contact": {
+      "title": "Ask us !",
+      "content": "If you have questions about certain paramters or techniques",
+      "call-to-action": "Contact us" 
+    },
+    "beanieBorder": {
+      "name": "Brim",
+      "simple": "Single",
+      "double": "Double",
+      "none": "None",
+      "simple.information": "The single border is folded once, providing an elegant and subtle finish.",
+      "double.information": "The double border is folded twice, offering a thicker and more structured finish.",
+      "none.information": "None means the edge is not folded at all, giving a natural and relaxed look.",
+      "empty.information": "Click on an option to get more information"
+    },
+    "beanieSize": {
+      "name": "Size",
+      "length": "Length",
+      "width": "Width",
+      "length.information": "The desired beanie length from end to end",
+      "width.information": "The desired beanie width from end to end",
+      "empty.information": "Click on a dropdown menu to get more information"
+    }
+  },
+  "download": {
+    "title": "Congratulations! Your unique pattern is now ready.",
+    "content": "Your custom pattern is ready to use. Give a name to your pattern and get ready to bring your creation to life by knitting exactly what you imagined!",
+    "inputPatternNamePlaceholder": "Pattern name",
+    "button": "Download",
+    "patternName": "Pattern",
+    "noPatternNameMessage": "If you don't want to give a personalized name to your pattern, it will be named \"Pattern\" by default",
+    "generateError": "A problem happened while generating the pattern, please try again"
+  },
+  "shared": {
+    "search": "Search for a pattern",
+    "difficulty": "Difficulty",
+    "patternType": "Type of pattern",
+    "none": "None",
+    "cards": {
+      "empty": {
+        "title": "No patterns found",
+        "content": "No patterns have been shared yet.\n Refresh the search or be the first to share your creations!",
+        "button": "Retry"
+      }
+    },
+    "create": {
+      "title": "Share your pattern",
+      "name": "Name of the pattern",
+      "description": "Description of the pattern",
+      "button": "Share",
+      "pdf": "PDF of the pattern",
+      "image": "Image of the pattern"
+    }
+  },
+  "pagination": {
+    "firstPageLabel": "First page",
+    "lastPageLabel": "Last page",
+    "itemsPerPageLabel:": "Items per page",
+    "nextPageLabel": "Next page",
+    "previousPageLabel": "Previous page"
+  },
+  "TypePattern": {
+    "SWEATER": "Sweater",
+    "BEANIE": "Beanie",
+    "SCARF": "Scarf",
+    "GLOVES": "Gloves",
+    "ACCESSORY": "Accessory",
+    "SOCKS": "Socks"
+  },
+  "Difficulty": {
+    "BEGINNER": "Beginner",
+    "INTERMEDIATE": "Intermediate",
+    "ADVANCED": "Advanced"
+  },
+  "navbar": {
+    "disconnect": "Log Out",
+    "home": "Home",
+    "generator": "Pattern Generator",
+    "shared": "Search for a pattern",
+    "add.pattern": "Add a pattern",
+    "settings": "Settings",
+    "myPattern":"My patterns"
+
+  },
+  "size": {
+    "SHORT": "Short (55 cm)",
+    "STANDARD": "Standard (60cm)",
+    "LONG": "Long (65cm)",
+    "SMALL": "small ",
+    "LARGE": "large",
+    "MEDIUM": "medium"
+  },
+  "beanieSize": {
+    "SHORT": "Short",
+    "STANDARD": "Standard",
+    "LONG": "Long"
+  },
+  "comment": {
+    "add": "Add a comment",
+    "noComment": "No comments yet",
+    "button": "Add",
+    "input": "comment"
+  },
+  "detail": {
+    "type": "Type of clothing",
+    "difficulty": "Level of difficulty"
+  },
+  "footer": {
+    "pattern": "Patterns",
+    "generator": "Pattern generator",
+    "shared": "Pattern sharing",
+    "search": "Search for a pattern",
+    "personal": "Personal space",
+    "profile": "Manage my profile",
+    "support": "Support",
+    "contact": "Contact",
+    "follow": "Follow us",
+    "instagram": "Instagram",
+    "myPattern": "My patterns"
+  },
+  "contact": {
+    "sent": "Your message has been sent",
+    "object": {
+      "generator": "Pattern generator", 
+      "sharing": "Pattern sharing"
+    }, 
+    "title": "Contact us",
+    "content": "Complete the form, and send us a message, to allow the Thalisy team to help you."
+  },
+  "myPattern": {
+    "total": "Patterns",
+    "rating": "Rating",
+    "my.empty": "You haven't published any patterns yet.",
+    "empty": "No patterns have been published at the moment."
+
+  }
+}
